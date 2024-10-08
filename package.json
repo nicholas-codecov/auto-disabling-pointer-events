@@ -1,0 +1,13 @@
+{
+  "name": "auto-disabling-pointer-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:react-virtual": "pnpm --filter react-virtual dev",
+    "dev:tanstack-virtual": "pnpm --filter tanstack-virtual dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
