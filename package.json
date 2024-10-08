@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:react-virtual": "pnpm --filter react-virtual dev",
+    "dev:react-window": "pnpm --filter react-window dev",
     "dev:tanstack-virtual": "pnpm --filter tanstack-virtual dev"
   },
   "keywords": [],
